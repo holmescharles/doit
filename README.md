@@ -1,2 +1,1 @@
-# doi2bib
 # doit
