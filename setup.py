@@ -18,5 +18,5 @@ setuptools.setup(
         "requests",
         "bibtexparser",
         ],
-    entry_points={"console_scripts": ["doit = doit.doit:main"]},
+    entry_points={"console_scripts": ["doit = doit:main"]},
     )
